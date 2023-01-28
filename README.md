@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xKajteh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java / html / css
+- 🌱 I’m currently learning PHP
 
 <!---
 xKajteh/xKajteh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
